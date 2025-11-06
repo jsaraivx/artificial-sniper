@@ -143,6 +143,13 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+bin/
+lib/
+include/
+/
+*.cfg
+raw_data/*
+processed_data/*
 
 # Spyder project settings
 .spyderproject
